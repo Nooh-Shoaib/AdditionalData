@@ -3,41 +3,38 @@
     {
       "slug": "custom-web-development",
       "id": "custom-web-development",
-     "enterprise": {
-  "heading": "Build Website For Small Business/Enterprise",
-  "text1": "In the digitized world, your customers expect a flawless website of your company to rely on before making any purchases. Nowadays, people prefer online shopping so customers should find your website more easily as compared to your competitors’ websites. And when customers visit your website, they should get a good impression of your business. To have a good impression, you need to have a good website that represents your business goals and provides your visitors the content/services they expect. Being the top custom web development company, we would love to provide your corporations’ website design and customize it according to your needs.",
-  "text2": "‘The Custom Websites’ is a web design agency that helps businesses grow online. Our custom web development services include website building for small businesses, developing games, e-commerce stores, etc. We develop custom websites and applications that run smoothly on all networks and interfaces.",
-  "text3": "We strongly believe that the success of our company is dependent on the success of our clients. We provide responsive custom web designs that can help you grow your business in the marketplace without facing the fear of losing your customers. Share your business ideas with us today and we will help you establish your online business by building a visually appealing, responsive website at affordable prices."
-},
-      {
-  "portfolio": [
-    {
-      "heading": "Titan Botanicals",
-      "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/qqqbx7yozpcghuybrs35.png"
-    },
-    {
-      "heading": "Cbddy",
-      "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ezgif.com-jpg-to-avif-converter-18.avif"
-    },
-    {
-      "heading": "My Earth Strong",
-      "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ezgif.com-jpg-to-avif-converter-19.avif"
-    },
-    {
-      "heading": "Legacy Therapeutics",
-      "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/legacy-therapeutics-scaled.webp"
-    },
-    {
-      "heading": "California Hi-Tech Plumbing",
-      "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ezgif.com-jpg-to-avif-converter-15.avif"
-    },
-    {
-      "heading": "Medical Massage",
-      "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ezgif.com-jpg-to-avif-converter-13.avif"
-    }
-  ]
-}
-
+      "enterprise": {
+        "heading": "Build Website For Small Business/Enterprise",
+        "text1": "In the digitized world, your customers expect a flawless website of your company to rely on before making any purchases. Nowadays, people prefer online shopping so customers should find your website more easily as compared to your competitors’ websites. And when customers visit your website, they should get a good impression of your business. To have a good impression, you need to have a good website that represents your business goals and provides your visitors the content/services they expect. Being the top custom web development company, we would love to provide your corporations’ website design and customize it according to your needs.",
+        "text2": "‘The Custom Websites’ is a web design agency that helps businesses grow online. Our custom web development services include website building for small businesses, developing games, e-commerce stores, etc. We develop custom websites and applications that run smoothly on all networks and interfaces.",
+        "text3": "We strongly believe that the success of our company is dependent on the success of our clients. We provide responsive custom web designs that can help you grow your business in the marketplace without facing the fear of losing your customers. Share your business ideas with us today and we will help you establish your online business by building a visually appealing, responsive website at affordable prices."
+      },
+      "portfolio": [
+        {
+          "heading": "Titan Botanicals",
+          "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/qqqbx7yozpcghuybrs35.png"
+        },
+        {
+          "heading": "Cbddy",
+          "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ezgif.com-jpg-to-avif-converter-18.avif"
+        },
+        {
+          "heading": "My Earth Strong",
+          "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ezgif.com-jpg-to-avif-converter-19.avif"
+        },
+        {
+          "heading": "Legacy Therapeutics",
+          "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/legacy-therapeutics-scaled.webp"
+        },
+        {
+          "heading": "California Hi-Tech Plumbing",
+          "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ezgif.com-jpg-to-avif-converter-15.avif"
+        },
+        {
+          "heading": "Medical Massage",
+          "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ezgif.com-jpg-to-avif-converter-13.avif"
+        }
+      ]
     }
   ]
 }

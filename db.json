@@ -92,7 +92,50 @@
           "heading": "LIVING STONE",
           "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/xp6mm0eifpu6mmc8orje-768x614.png"
         }
-      ]
+      ],
+     "accordions": [
+  {
+    "heading": "Build Website For Small Business/Enterprise",
+    "text": "We strongly believe that the success of our company is dependent on the success of our clients. We provide <Link to='/uiux-design' className='text-blue-500 hover:text-blue-600'> responsive custom web designs </Link> that can help you grow your business in the marketplace without facing the fear of losing your customers. Share your business ideas with us today and we will help you establish your online business by building a visually appealing, responsive website at affordable prices."
+  },
+  {
+    "heading": "E-commerce Solutions for Your Business",
+    "text": "Explore our e-commerce solutions designed to boost your online sales. We create seamless and secure shopping experiences that drive customer engagement. From user-friendly interfaces to secure payment gateways, we've got your e-commerce needs covered."
+  },
+  {
+    "heading": "Mobile App Development Services",
+    "text": "Take your business to the next level with our custom mobile app development services. Whether you need an iOS, Android, or cross-platform app, we have the expertise to turn your ideas into a functional and user-friendly mobile application."
+  },
+  {
+    "heading": "SEO Strategies for Improved Visibility",
+    "text": "Enhance your online presence with our effective SEO strategies. We analyze your website, identify keywords, and implement on-page and off-page optimization techniques to improve your search engine rankings. Increase visibility and attract more organic traffic to your site."
+  },
+  {
+    "heading": "Social Media Marketing Campaigns",
+    "text": "Connect with your audience on social media platforms through our targeted marketing campaigns. From creating engaging content to managing ad campaigns, we help you build a strong social media presence and drive user engagement for your brand."
+  },
+  {
+    "heading": "Custom Software Development",
+    "text": "Streamline your business processes with our custom software development services. We design and build tailored software solutions that align with your specific requirements. Improve efficiency, reduce costs, and stay ahead in the competitive market."
+  },
+  {
+    "heading": "Web Hosting and Domain Registration",
+    "text": "Secure reliable web hosting and domain registration services with us. We ensure high-performance hosting and help you choose the perfect domain name for your business. Enjoy seamless online presence with our hosting solutions."
+  },
+  {
+    "heading": "UI/UX Design for Intuitive Interfaces",
+    "text": "Transform user experiences with our UI/UX design services. We create visually appealing and intuitive interfaces that enhance user engagement. From wireframes to prototypes, our design experts bring your ideas to life with creativity and functionality."
+  },
+  {
+    "heading": "Content Marketing Strategies",
+    "text": "Drive brand awareness and customer engagement through our content marketing strategies. Our team crafts compelling and relevant content that resonates with your target audience. Build trust, establish authority, and drive conversions with effective content marketing."
+  },
+  {
+    "heading": "Cybersecurity Solutions for Business",
+    "text": "Protect your business from cyber threats with our robust cybersecurity solutions. We assess vulnerabilities, implement security measures, and provide ongoing monitoring to safeguard your digital assets. Ensure the confidentiality and integrity of your data with our cybersecurity expertise."
+  }
+]
+
     }
   ]
 }
